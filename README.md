@@ -1,1 +1,1 @@
-# 3Stage-RISC-V-DL-Accelerator-Simulator
+# 5Stage-RISC-V-DL-Accelerator-Simulator
